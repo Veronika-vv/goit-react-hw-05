@@ -1,0 +1,16 @@
+.link {
+  color: black;
+  font-size: 26px;
+  text-decoration: none;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.active {
+  color: black;
+  text-decoration: underline;
+}
